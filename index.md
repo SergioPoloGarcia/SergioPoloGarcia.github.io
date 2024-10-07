@@ -1,9 +1,7 @@
 ---
 layout: home
-title: "Bienvenido a mi Portafolio"
+title: "👋 Hi, I’m Sergio Polo García (@SergioPoloGarcia)"
 ---
-
-# 👋 Hi, I’m Sergio Polo García (@SergioPoloGarcia)
 
 ### 👀 Interests
 I'm a passionate software developer with over 2 years of experience, specializing in C# and .NET development. I’m highly interested in:
